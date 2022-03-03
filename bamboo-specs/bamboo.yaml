@@ -41,7 +41,7 @@ plan-permissions:
   permissions:
   - view
 - users:
-  - hspijkerman
+  - bamboo
   permissions:
   - view
   - edit
